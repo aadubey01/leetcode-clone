@@ -10,7 +10,7 @@ export type Problem ={
 
 export const problems: Problem[] = [
 	{
-		id: "anagram-js",
+		id: "anagram",
 		title: "Anagram",
 		difficulty: "Easy",
 		category: "String",
@@ -19,7 +19,7 @@ export const problems: Problem[] = [
 	},
 	{
 		id: "expenditure-analysis",
-		title: "Expense Analysis",
+		title: "Expenditure Analysis",
 		difficulty: "Easy",
 		category: "Objects",
 		order: 2,
@@ -34,10 +34,10 @@ export const problems: Problem[] = [
 		videoId: "",
 	},
 	{
-		id: "todo-list",
-		title: "Todo List",
+		id: "debounce-function",
+		title: "Debounce Function",
 		difficulty: "Hard",
-		category: "Objects",
+		category: "Asynchronous",
 		order: 4,
 		videoId: "",
 	},
